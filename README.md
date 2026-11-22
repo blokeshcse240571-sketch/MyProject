@@ -1,2 +1,5 @@
 # MyProject
-This is my first project using Git and GitHub.
+
+This project demonstrates Git and GitHub.
+
+Created as a practical source code management exercise.
